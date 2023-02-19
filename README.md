@@ -6,7 +6,7 @@ Uses the [Sinch](https://www.sinch.com/) service. Visit that site and create a f
 
 ## Usage:
 
-1. Edit the Makefie to add:
+1. Edit the Makefile to add:
 
 ```
 SERVICE_PLAN_ID (your sinch plan ID)
