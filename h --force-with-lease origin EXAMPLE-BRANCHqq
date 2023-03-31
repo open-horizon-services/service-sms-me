@@ -1,0 +1,54 @@
+[33mcommit 189c12a5116579ed6809e2632aee6c1c9dfbf949[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: a10fccf e25622f
+Author: Adam <ayana@DESKTOP-L41U0OD.localdomain>
+Date:   Fri Mar 3 17:03:44 2023 -0500
+
+    "Signed-off-by: Adam-Ayan <adam.ayan84@gmail.com>"
+
+[33mcommit a10fccfbce91f5bcdfc7aca88b449226319ede0b[m
+Author: Adam <ayana@DESKTOP-L41U0OD.localdomain>
+Date:   Sun Feb 19 02:03:40 2023 -0500
+
+    "Signed-off-by: Adam-Ayan <adam.ayan84@gmail.com>"
+
+[33mcommit e25622f236c1ee7226062a2b2b6cb741d8edd9f5[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: b27f6d2 80f04ef
+Author: Adam <ayana@DESKTOP-L41U0OD.localdomain>
+Date:   Sun Feb 19 01:43:02 2023 -0500
+
+    Merge branch 'main' of https://github.com/Adam-Ayan/service-sms-me into main
+
+[33mcommit b27f6d2ed276123a34c21e005df5c822870a8a1a[m
+Author: Adam <ayana@DESKTOP-L41U0OD.localdomain>
+Date:   Sun Feb 19 01:26:37 2023 -0500
+
+    Signed-off-by:\ Adam-Ayan\ adam.ayan84@gmail.com
+
+[33mcommit 80f04ef7fa61f55f66bde2aa7d08e3e8032d4cef[m
+Author: Adam <ayana@DESKTOP-L41U0OD.localdomain>
+Date:   Sun Feb 19 01:26:37 2023 -0500
+
+    Signed-off-by:\ Adam-Ayan\ adam.ayan84@gmail.com
+
+[33mcommit 2df1594177606a10fdc360bb18bbf1ff6946a4d7[m
+Merge: e83b70f d3a6758
+Author: Troy Fine <troy.f.fine@gmail.com>
+Date:   Tue Oct 26 07:36:56 2021 -0700
+
+    Merge pull request #1 from TheMosquito/main
+    
+    Initial commit
+
+[33mcommit d3a67588fff5e2bc8ef6c50e72b9ae89e1dbd518[m
+Author: TheMosquito <glendarling@us.ibm.com>
+Date:   Wed Oct 20 15:23:27 2021 -0700
+
+    Initial commit
+    
+    Signed-off-by: TheMosquito <glendarling@us.ibm.com>
+
+[33mcommit e83b70f38cf13a0cdb33ce2c10112b48e7ba5393[m
+Author: Troy Fine <troy.f.fine@gmail.com>
+Date:   Wed Oct 20 11:18:22 2021 -0700
+
+    Initial commit
